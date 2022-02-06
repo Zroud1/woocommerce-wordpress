@@ -1,0 +1,177 @@
+2022-02-04T14:55:00+00:00 DEBUG POST https://connect.woocommerce.com/ppc/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"partner_logo_url":"https:\/\/connect.woocommerce.com\/images\/woocommerce_logo.png","return_url":"http:\/\/localhost\/eco\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway","return_url_description":"Return to your shop.","show_add_credit_card":true},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","FUTURE_PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","VAULT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: b0e7292826229
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+
+2022-02-04T15:03:22+00:00 DEBUG POST https://connect.woocommerce.com/ppc/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"partner_logo_url":"https:\/\/connect.woocommerce.com\/images\/woocommerce_logo.png","return_url":"http:\/\/localhost\/eco\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway","return_url_description":"Return to your shop.","show_add_credit_card":true},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","FUTURE_PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","VAULT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: 4c3c948d61d07
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+
+2022-02-04T15:03:36+00:00 DEBUG POST https://api.sandbox.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: 28c18fe2182db
+Response: Array
+(
+    [code] => 200
+    [message] => OK
+)
+
+
+2022-02-04T15:03:37+00:00 DEBUG POST https://connect.woocommerce.com/ppc/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"partner_logo_url":"https:\/\/connect.woocommerce.com\/images\/woocommerce_logo.png","return_url":"http:\/\/localhost\/eco\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway","return_url_description":"Return to your shop.","show_add_credit_card":true},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","FUTURE_PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","VAULT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: 9fa15ba2f22a6
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+
+2022-02-04T15:04:30+00:00 DEBUG POST https://connect.woocommerce.com/ppc/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"partner_logo_url":"https:\/\/connect.woocommerce.com\/images\/woocommerce_logo.png","return_url":"http:\/\/localhost\/eco\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway","return_url_description":"Return to your shop.","show_add_credit_card":true},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","FUTURE_PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","VAULT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: ffc139ed274a
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+
+2022-02-04T15:04:56+00:00 DEBUG POST https://api.sandbox.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: 66c177f965c46
+Response: Array
+(
+    [code] => 200
+    [message] => OK
+)
+
+
+2022-02-04T15:05:00+00:00 DEBUG POST https://connect.woocommerce.com/ppc/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"partner_logo_url":"https:\/\/connect.woocommerce.com\/images\/woocommerce_logo.png","return_url":"http:\/\/localhost\/eco\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway","return_url_description":"Return to your shop.","show_add_credit_card":true},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","FUTURE_PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","VAULT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: 73363fd04d7ec
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+
+2022-02-04T15:06:16+00:00 DEBUG POST https://connect.woocommerce.com/ppc/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"partner_logo_url":"https:\/\/connect.woocommerce.com\/images\/woocommerce_logo.png","return_url":"http:\/\/localhost\/eco\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway","return_url_description":"Return to your shop.","show_add_credit_card":true},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","FUTURE_PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","VAULT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: 6fd1b4ec2c95f
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+
+2022-02-04T15:07:12+00:00 DEBUG POST https://connect.woocommerce.com/ppc/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"partner_logo_url":"https:\/\/connect.woocommerce.com\/images\/woocommerce_logo.png","return_url":"http:\/\/localhost\/eco\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway","return_url_description":"Return to your shop.","show_add_credit_card":true},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","FUTURE_PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","VAULT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: 1a4e8f36e90d8
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+
+2022-02-04T15:07:13+00:00 DEBUG POST https://api.sandbox.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: 19a4471eeea90
+Response: Array
+(
+    [code] => 200
+    [message] => OK
+)
+
+
+2022-02-04T15:07:14+00:00 DEBUG POST https://connect.woocommerce.com/ppc/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"partner_logo_url":"https:\/\/connect.woocommerce.com\/images\/woocommerce_logo.png","return_url":"http:\/\/localhost\/eco\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway","return_url_description":"Return to your shop.","show_add_credit_card":true},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","FUTURE_PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","VAULT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: 4745a05fcc58f
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+
+2022-02-04T15:07:15+00:00 DEBUG POST https://connect.woocommerce.com/ppcsandbox/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"partner_logo_url":"https:\/\/connect.woocommerce.com\/images\/woocommerce_logo.png","return_url":"http:\/\/localhost\/eco\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway","return_url_description":"Return to your shop.","show_add_credit_card":true},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","FUTURE_PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","VAULT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: 1869cf5fc421c
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+
+2022-02-04T15:08:08+00:00 DEBUG POST https://connect.woocommerce.com/ppcsandbox/v1/notifications/webhooks
+Request Body: {"url":"https:\/\/localhost\/eco\/wp-json\/paypal\/v1\/incoming","event_types":[{"name":"CHECKOUT.ORDER.APPROVED"},{"name":"CHECKOUT.ORDER.COMPLETED"},{"name":"PAYMENT.CAPTURE.REFUNDED"},{"name":"PAYMENT.CAPTURE.REVERSED"},{"name":"PAYMENT.ORDER.CANCELLED"},{"name":"PAYMENT.CAPTURE.DENIED"},{"name":"PAYMENT.CAPTURE.COMPLETED"}]}
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: <!DOCTYPE html>
+<html>
+    <head>
+        <meta name="robots" content="noindex,nofollow" />
+        <style>
+            /* Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html */
+            html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
+            html { background: #eee; padding: 10px }
+            img { border: 0; }
+            #sf-resetcontent { width:970px; margin:0 auto; }
+                            body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+                .container { margin: 30px; max-width: 600px; }
+                h1 { color: #dc3545; font-size: 24px; }
+        </style>
+    </head>
+    <body>
+                        <div class="container">
+                    <h1>Sorry, the page you are looking for could not be found.</h1>
+                </div>
+    </body>
+</html>
+
+2022-02-04T15:08:08+00:00 ERROR Failed to subscribe webhooks: [Error] Unknown error while connecting to PayPal. Status code: 0.
+2022-02-04T15:08:10+00:00 DEBUG POST https://connect.woocommerce.com/ppc/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"partner_logo_url":"https:\/\/connect.woocommerce.com\/images\/woocommerce_logo.png","return_url":"http:\/\/localhost\/eco\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway","return_url_description":"Return to your shop.","show_add_credit_card":true},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","FUTURE_PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","VAULT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: cb55e5b38d558
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+
+2022-02-04T15:14:35+00:00 DEBUG POST https://api.sandbox.paypal.com/v1/oauth2/token?grant_type=client_credentials
+Response Debug ID: 87391490d0569
+Response: Array
+(
+    [code] => 200
+    [message] => OK
+)
+
+
+2022-02-04T15:14:38+00:00 DEBUG POST https://connect.woocommerce.com/ppc/v2/customer/partner-referrals
+Request Body: {"partner_config_override":{"partner_logo_url":"https:\/\/connect.woocommerce.com\/images\/woocommerce_logo.png","return_url":"http:\/\/localhost\/eco\/wp-admin\/admin.php?page=wc-settings&tab=checkout&section=ppcp-gateway","return_url_description":"Return to your shop.","show_add_credit_card":true},"products":["EXPRESS_CHECKOUT"],"legal_consents":[{"type":"SHARE_DATA_CONSENT","granted":true}],"operations":[{"operation":"API_INTEGRATION","api_integration_preference":{"rest_api_integration":{"integration_method":"PAYPAL","integration_type":"FIRST_PARTY","first_party_details":{"features":["PAYMENT","FUTURE_PAYMENT","REFUND","ADVANCED_TRANSACTIONS_SEARCH","VAULT"],"seller_nonce":"a1233wtergfsdt4365tzrshgfbaewa36AGa1233wtergfsdt4365tzrshgfbaewa36AG"}}}}]}
+Response Debug ID: 4e9e2d90fccb0
+Response: Array
+(
+    [code] => 201
+    [message] => Created
+)
+
+
